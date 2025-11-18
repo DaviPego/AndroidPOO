@@ -12,7 +12,7 @@ public class Alunos {
       this.documento = doc;
       this.curso = course;
     }
-    public int getIt(){
+    public int getId(){
         return id;
 
     }
